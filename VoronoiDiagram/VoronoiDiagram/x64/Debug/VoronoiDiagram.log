@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(191,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(500,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(505,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(571,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(579,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(596,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(612,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(897,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\HFKJ059\source\repos\VoronoiDiagram\VoronoiDiagram\VoronoiDiagram.h(900,56): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  VoronoiDiagram.vcxproj -> C:\Users\HFKJ059\source\repos\VoronoiDiagram\x64\Debug\VoronoiDiagram.exe
